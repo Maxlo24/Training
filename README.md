@@ -29,7 +29,6 @@ python3 main.py inputImgPath -r RadiusOfMedianFilter
 
 Maxime Gillot
 
-## Version History
 
 ## License
 
