@@ -30,6 +30,7 @@ python3 main.py inputImgPath -r RadiusOfMedianFilter
 #### EX2
 
 * Launch Qt Creator and load the Ex2 folder
+* Then press Build and Run
 
 ## Authors
 
