@@ -12,6 +12,8 @@ Exercices for the training for NC.
 
 ### Executing programs
 
+#### EX1
+
 * How to run the program EX1
 ```
 python3 main.py inputImgPath
@@ -24,6 +26,9 @@ or
 ```
 python3 main.py inputImgPath -r RadiusOfMedianFilter
 ```
+
+#### EX2
+
 * Launch Qt Creator and load the Ex2 folder
 
 ## Authors
