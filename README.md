@@ -6,7 +6,8 @@ Exercices for the training for NC.
 
 ### Dependencies
 
-* Need to have python3 with itk and vtk librairies
+* EX1 - Need to have python3 with itk and vtk librairies
+* EX2 - Need to have Qt Creator Qt 6.1.2
 
 
 ### Executing programs
@@ -23,7 +24,7 @@ or
 ```
 python3 main.py inputImgPath -r RadiusOfMedianFilter
 ```
-
+* Launch Qt Creator and load the Ex2 folder
 
 ## Authors
 
